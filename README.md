@@ -13,9 +13,9 @@ This project involves training a Convolutional Neural Network (CNN) to classify 
 
 
   Performance Analysis<br>
-        Objective: Compare the performance of the CNN trained with ground truth labels and the CNN trained with pseudo labels.<br>
+        Objective: Compare the performance of the CNN trained with ground truth labels .<br>
         Metrics: Accuracy and loss<br>
-        Visualization: Plot graphs to contrast the CNN’s performance using ground truth labels and pseudo labels.<br>
+        Visualization: Plot graphs to contrast the CNN’s performance using ground truth labels .<br>
 
 ## Dataset
 The Data set used for the this task  can be accessed from here https://zenodo.org/records/3685367<br>
