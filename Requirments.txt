@@ -1,0 +1,10 @@
+librosa
+numpy
+pandas
+tqdm
+matplot
+seaborn
+scikitlearn
+python_speech_features
+keras
+Tensorflow
